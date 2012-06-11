@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/media/dev/work/wezatele/myorder_platform/shop_admin/templates'
+let g:netrw_dirhist_2='/media/dev/work/wezatele/myorder_platform/shop_admin/fixtures'
+let g:netrw_dirhist_3='/media/dev/learning/nlp-class/assignments/1/pa1-spamlord-v3'
+let g:netrw_dirhist_4='/media/dev/learning/nlp-class/assignments/1/pa1-spamlord-v3/java'
+let g:netrw_dirhist_5='/media/dev/work/wezatele/myorder_platform/shop_admin/templates'
+let g:netrw_dirhist_6='/media/dev/work/wezatele/myorder_platform/config/deploy'
+let g:netrw_dirhist_7='/media/dev/work/wezatele/myorder_platform_wf/shop_admin/templates'
